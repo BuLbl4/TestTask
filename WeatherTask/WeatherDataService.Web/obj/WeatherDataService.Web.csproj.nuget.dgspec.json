@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj": {}
+    "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj": {}
   },
   "projects": {
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj": {
+    "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
+        "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
         "projectName": "WeatherDataService.Application",
-        "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
+        "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
         "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\obj\\",
+        "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
-                "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj"
+              "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
+                "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
+    "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
+        "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
         "projectName": "WeatherDataService.Domain",
-        "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
+        "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
         "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\obj\\",
+        "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
+    "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
+        "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
         "projectName": "WeatherDataService.Persistence",
-        "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
+        "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
         "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\obj\\",
+        "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj": {
-                "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj"
+              "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj": {
+                "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj"
               },
-              "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
-                "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj"
+              "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj": {
+                "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj": {
+    "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
+        "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
         "projectName": "WeatherDataService.Web",
-        "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
+        "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
         "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\obj\\",
+        "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,8 +274,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
-                "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj"
+              "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
+                "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj"
               }
             }
           }

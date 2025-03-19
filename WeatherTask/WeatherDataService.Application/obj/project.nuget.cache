@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zyA0Axt5R+s=",
+  "dgSpecHash": "0Q/y+WQy1Do=",
   "success": true,
-  "projectFilePath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
+  "projectFilePath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Application\\WeatherDataService.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Булат\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Булат\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",

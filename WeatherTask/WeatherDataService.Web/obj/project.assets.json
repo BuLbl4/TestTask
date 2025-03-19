@@ -3115,11 +3115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
+      "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
       "projectName": "WeatherDataService.Web",
-      "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
+      "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
       "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-      "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\obj\\",
+      "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3141,8 +3141,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
-              "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj"
+            "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj": {
+              "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj"
             }
           }
         }

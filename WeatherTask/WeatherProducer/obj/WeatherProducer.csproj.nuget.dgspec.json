@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj": {}
+    "C:\\TestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj": {}
   },
   "projects": {
-    "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj": {
+    "C:\\TestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
+        "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
         "projectName": "WeatherProducer",
-        "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
+        "projectPath": "C:\\TestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
         "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\obj\\",
+        "outputPath": "C:\\TestTask\\WeatherTask\\WeatherProducer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

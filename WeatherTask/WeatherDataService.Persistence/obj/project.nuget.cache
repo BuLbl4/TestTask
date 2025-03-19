@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDTxoC+80kM=",
+  "dgSpecHash": "/lnLyEluSsM=",
   "success": true,
-  "projectFilePath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
+  "projectFilePath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Persistence\\WeatherDataService.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Булат\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Булат\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
+      "projectUniqueName": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
       "projectName": "WeatherDataService.Domain",
-      "projectPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
+      "projectPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
       "packagesPath": "C:\\Users\\Булат\\.nuget\\packages\\",
-      "outputPath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\obj\\",
+      "outputPath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

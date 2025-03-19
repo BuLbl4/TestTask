@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7xg60JOK00=",
+  "dgSpecHash": "4u3BNLGzIoc=",
   "success": true,
-  "projectFilePath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
+  "projectFilePath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Web\\WeatherDataService.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Булат\\.nuget\\packages\\chillicream.nitro.app\\23.0.4\\chillicream.nitro.app.23.0.4.nupkg.sha512",
     "C:\\Users\\Булат\\.nuget\\packages\\google.protobuf\\3.30.1\\google.protobuf.3.30.1.nupkg.sha512",

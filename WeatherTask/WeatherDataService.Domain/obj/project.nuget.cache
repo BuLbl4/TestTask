@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5yROecdfv4=",
+  "dgSpecHash": "VzxQkmg+7jU=",
   "success": true,
-  "projectFilePath": "C:\\WeatherTestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
+  "projectFilePath": "C:\\TestTask\\WeatherTask\\WeatherDataService.Domain\\WeatherDataService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

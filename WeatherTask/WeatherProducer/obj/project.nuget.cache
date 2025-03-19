@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5TypVuwe8mo=",
+  "dgSpecHash": "ic5opogz7ik=",
   "success": true,
-  "projectFilePath": "C:\\WeatherTestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
+  "projectFilePath": "C:\\TestTask\\WeatherTask\\WeatherProducer\\WeatherProducer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Булат\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
     "C:\\Users\\Булат\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
