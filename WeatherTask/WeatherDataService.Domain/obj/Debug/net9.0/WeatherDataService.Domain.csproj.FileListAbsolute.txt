@@ -1,0 +1,11 @@
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\bin\Debug\net9.0\WeatherDataService.Domain.deps.json
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\bin\Debug\net9.0\WeatherDataService.Domain.dll
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\bin\Debug\net9.0\WeatherDataService.Domain.pdb
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.AssemblyInfoInputs.cache
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.AssemblyInfo.cs
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.dll
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\refint\WeatherDataService.Domain.dll
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\WeatherDataService.Domain.pdb
+C:\Users\Булат\RiderProjects\WeatherTask\WeatherDataService.Domain\obj\Debug\net9.0\ref\WeatherDataService.Domain.dll

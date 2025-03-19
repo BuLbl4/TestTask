@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P4Kx8CXAoRWbvOZrMyxcQdpPnEGxNj23X3CgOYQeDKQ=",
+  "Source": "WeatherProducer",
+  "BasePath": "_content/WeatherProducer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

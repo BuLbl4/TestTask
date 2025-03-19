@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+qz0MReDi717fqW/MVQfxBRZGeihYJwKLn3ezcygV38=",
+  "Source": "WeatherDataService.Web",
+  "BasePath": "_content/WeatherDataService.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

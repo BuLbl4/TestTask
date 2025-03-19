@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherProducer", "WeatherProducer\WeatherProducer.csproj", "{10B25AFA-DE03-448C-8D22-911B485A232A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherConsumer", "WeatherConsumer\WeatherConsumer.csproj", "{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDataService.Web", "WeatherDataService.Web\WeatherDataService.Web.csproj", "{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Producer", "Producer", "{23D3559A-6CD4-43DA-9193-91C16A458DDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consumer", "Consumer", "{5568B47C-78CA-4DC9-9D59-251A6B1B99C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataService", "DataService", "{FED3F4FD-8AFD-4B00-981A-3294EF132DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDataService.Persistence", "WeatherDataService.Persistence\WeatherDataService.Persistence.csproj", "{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDataService.Application", "WeatherDataService.Application\WeatherDataService.Application.csproj", "{5FF6113E-F6EA-4366-B341-219E1F1B3329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDataService.Domain", "WeatherDataService.Domain\WeatherDataService.Domain.csproj", "{3DCC484E-7CF7-42A8-A39C-EB9742959CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B25AFA-DE03-448C-8D22-911B485A232A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B25AFA-DE03-448C-8D22-911B485A232A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B25AFA-DE03-448C-8D22-911B485A232A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B25AFA-DE03-448C-8D22-911B485A232A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF6113E-F6EA-4366-B341-219E1F1B3329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF6113E-F6EA-4366-B341-219E1F1B3329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF6113E-F6EA-4366-B341-219E1F1B3329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF6113E-F6EA-4366-B341-219E1F1B3329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCC484E-7CF7-42A8-A39C-EB9742959CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCC484E-7CF7-42A8-A39C-EB9742959CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCC484E-7CF7-42A8-A39C-EB9742959CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCC484E-7CF7-42A8-A39C-EB9742959CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10B25AFA-DE03-448C-8D22-911B485A232A} = {23D3559A-6CD4-43DA-9193-91C16A458DDE}
+		{5CAD58C2-A4C4-42FA-85FC-1B63BEB63ED1} = {5568B47C-78CA-4DC9-9D59-251A6B1B99C5}
+		{7C77E9A4-58AE-4018-9C99-B0DBBE1BE986} = {FED3F4FD-8AFD-4B00-981A-3294EF132DDF}
+		{8D933A7E-7230-4C5B-A6DD-8DB3F0137E4A} = {FED3F4FD-8AFD-4B00-981A-3294EF132DDF}
+		{5FF6113E-F6EA-4366-B341-219E1F1B3329} = {FED3F4FD-8AFD-4B00-981A-3294EF132DDF}
+		{3DCC484E-7CF7-42A8-A39C-EB9742959CE6} = {FED3F4FD-8AFD-4B00-981A-3294EF132DDF}
+	EndGlobalSection
+EndGlobal
